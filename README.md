@@ -17,7 +17,7 @@ This repository contains the implementation of a generic N-BEATS (Neural Basis E
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/nbeats_generic_tensorflow.git
+    git clone https://github.com/duhirwe/nbeats-generic-tf.git
     cd nbeats_generic_tensorflow
     ```
 
@@ -56,7 +56,7 @@ nbeats_generic_tensorflow
 │   ├── __pycache__
 │   ├── __init__.py
 │   ├── basic_block.py         # Implementation of the basic block of the N-BEATS model
-│   └── nbeat_gen.py           # Implementation of the N-BEATS model generator
+│   └── nbeat_gen.py           # Implementation of the N-BEATS generic model
 │
 ├── utils
 │   ├── __init__.py
