@@ -5,7 +5,6 @@ This repository contains the implementation of a generic N-BEATS (Neural Basis E
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
 
 ## Installation
@@ -27,9 +26,6 @@ This repository contains the implementation of a generic N-BEATS (Neural Basis E
     pip install -r requirements.txt
     ```
 
-## Usage
-
-To train the N-BEATS model, follow the steps below.
 
 ## Project Structure
 
