@@ -51,13 +51,13 @@ nbeats-generic-tf
 │   └── nbeats_generic.png     # Diagram or visualization of the N-BEATS model
 │
 ├── model
-│   ├── __pycache__
 │   ├── __init__.py
 │   ├── basic_block.py         # Implementation of the basic block of the N-BEATS model
 │   └── nbeat_gen.py           # Implementation of the N-BEATS generic model
 │
 ├── utils
 │   ├── __init__.py
-│   └── main.py                # Main script for training and evaluation
+│   └── utils.py                # utility functions
 │
+├── main.py                     # Main script for training and evaluation
 └── requirements.txt           # Required Python packages
