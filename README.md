@@ -7,9 +7,6 @@ This repository contains the implementation of a generic N-BEATS (Neural Basis E
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Configuration](#configuration)
-- [Training](#training)
-- [Evaluation](#evaluation)
 
 ## Installation
 
