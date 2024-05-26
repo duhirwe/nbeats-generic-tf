@@ -10,8 +10,6 @@ This repository contains the implementation of a generic N-BEATS (Neural Basis E
 - [Configuration](#configuration)
 - [Training](#training)
 - [Evaluation](#evaluation)
-- [Results](#results)
-- [License](#license)
 
 ## Installation
 
@@ -41,7 +39,7 @@ To train the N-BEATS model, follow the steps below.
 The project structure is organized as follows:
 
 ```plaintext
-nbeats_generic_tensorflow
+nbeats-generic-tf
 │
 ├── config
 │   └── config.json            # Configuration file for the model and training parameters
